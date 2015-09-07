@@ -6,4 +6,4 @@ For the purposes of Nicolas Fredrickson and Brian Radomski.
 I had to branch, don't you see! It was a requirement for the lab! I did it! Me! 
 *Perry Mason Theme begins to play as cops escort me from the courtroom.*
 
-Let's see if we can force a conflict.
+I did it! I tried (and succeded) trying to force a conflict!
